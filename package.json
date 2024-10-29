@@ -1,0 +1,16 @@
+{
+  "name": "cours-testing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "cypress open",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "cypress": "^13.15.1",
+    "vite": "^5.0.8"
+  }
+}
